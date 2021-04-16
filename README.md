@@ -1,19 +1,11 @@
 # [Dynamically changing request mapping in spring boot]
 
-[![Actions](https://github.com/gothinkster/spring-boot-realworld-example-app/workflows/Java%20CI/badge.svg)](https://github.com/mnreddy7/property-management-api.git)
+[![Actions](https://github.com/gothinkster/spring-boot-realworld-example-app/workflows/Java%20CI/badge.svg)]
 
 > ### Dynamic request mapping
 
 # Brief
 A sample application demonstrating dynamic request mapping
-
-# Property Management APIs
-Property management APIs with the following functionality:
-1. authenticate
-2. Create property
-3. Update property
-4. Approve property
-5. Search property
 
 # Libraries used
 1. Spring boot
